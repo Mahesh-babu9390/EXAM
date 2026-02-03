@@ -1,0 +1,20 @@
+1) Compilation
+2) LinkedHashMap
+3) A Stream
+4) ArrayIndexOutOfBoundsException
+5) 5
+6) doPost
+7) Servlet
+8) @controller
+9) Tomcat
+10) @RestController
+11) @id
+12) ORM tool
+13) Monolithic Architecture
+14) SELECT
+15) All the above
+16) git branch <branch name>
+17) extends
+18) collect(collectors.toList()
+19) it is a database entity
+20) @enableautoconfig
